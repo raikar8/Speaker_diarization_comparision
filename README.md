@@ -1,4 +1,4 @@
-# .iynb files description
+# Files description
 
 1) fine_tune_PYANNOTE.ipynb
 
